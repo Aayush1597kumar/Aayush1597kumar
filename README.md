@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**Aayush1597kumar/Aayush1597kumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Aayush kumar jha son of mr.Umesh kumar jha .
 
-Here are some ideas to get you started:
+I have done my class Xth from D.A.V public school and Xllth from DON BOSCO convent school.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am pursuing CSE form vit Bhopal university in ai and ml.
+
+I am learning DSA in cpp learnt funamental of python ,html and css.
+
+i have made the pomodoro clock as my first project in python .
+
+my hobbies are to create the new things , cooking and playing outdoor games .
+
+I aim to build strong technical and professional skills over the next four years.
