@@ -15,5 +15,5 @@ my hobbies are to create the new things , cooking and playing outdoor games .
 I aim to build strong technical and professional skills over the next four years.
 
 
-<img width="1920" height="1080" alt="Screenshot 2026-03-24 115655" src="https://github.com/user-attachments/assets/df0f5cd6-31fd-4460-bf66-2bf4c3e8265d" />
+
 
